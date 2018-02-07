@@ -12,7 +12,7 @@ import Firebase
 class ViewController: UIViewController {
     
     //try a source control
-    var persons:[String] = [];;
+    var persons:[String] = [];
     
     @IBOutlet weak var passwordTxt: UITextField!
     @IBOutlet weak var emailTxt: UITextField!
